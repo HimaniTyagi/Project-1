@@ -1,2 +1,2 @@
-# Project-1
-Project 1
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
